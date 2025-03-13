@@ -1,4 +1,4 @@
-Hi I'm Joanna! 🥳
+## Hi I'm Joanna! 🥳
 
 🧠  Solving first world problems one app at a time </br>
 👩🏻‍💻  Data Analyst @ Commonwealth Bank </br>
